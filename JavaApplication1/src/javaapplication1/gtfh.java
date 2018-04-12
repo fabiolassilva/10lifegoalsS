@@ -9,13 +9,9 @@ package javaapplication1;
  *
  * @author Aluno
  */
-public class JavaApplication1 {
+public class gtfh {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("FGFR");
+    public static void main(String args) {
+
     }
-    
 }
